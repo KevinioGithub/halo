@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "halo",
+  "description": "halo",
+  "version": "1.0.0",
+  "icons": { "128": "hansohee_2.jpg" },
+  "browser_action": {
+    "default_icon": "hansohee_2.jpg",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
